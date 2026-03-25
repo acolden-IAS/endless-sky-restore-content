@@ -1,0 +1,2 @@
+outfit "Antigrav Glass"
+	thumbnail "outfit/antigrav glass"
