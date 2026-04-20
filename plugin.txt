@@ -1,2 +1,2 @@
 name "Endless Sky Restore Content"
-about `Restore deleted content; Makes Peregrine available; Makes Automata caputrable`
+about `Restore deleted Syndicate content; Adds icon for Antigrav glass; Makes Peregrine available; Makes Automata caputrable`
