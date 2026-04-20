@@ -1,2 +1,2 @@
 name "Endless Sky Restore Content"
-about `Restore deleted content`
+about `Restore deleted content; Makes Peregrine available; Makes Automata caputrable`

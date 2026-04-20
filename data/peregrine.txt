@@ -1,0 +1,15 @@
+mission "Airhead Add to Remnant: Cognizance 38"
+	invisible
+	landing
+	destination
+		government "Remnant"
+	to offer
+		or
+			has "Remnant: Cognizance 38: offered"
+			has "Remnant: Cognizance 38: done"
+	on offer
+		event "Airhead: unlock Peregrine"
+
+event "Airhead: unlock Peregrine"
+	shipyard "Remnant Puffin"
+		"Peregrine"
