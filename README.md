@@ -2,6 +2,4 @@
 
 This plugin:
 - Restores deleted Syndicate content;
-- Adds icon for Antigrav glass;
-- Makes Peregrine available;
-- Makes Automata capturable
+- Restores deleted Human Culture content;
