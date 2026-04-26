@@ -2,4 +2,4 @@
 
 This plugin:
 - Restores deleted Syndicate content;
-- Restores deleted Human Culture content;
+- Restores deleted human culture content;
